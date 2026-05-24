@@ -1,4 +1,4 @@
-\# Hi, I'm Sinem Alimkilinc! 👋
+\# Hi, I'm Sinem Yalimkilinc! 👋
 
 
 
