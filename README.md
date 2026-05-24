@@ -108,5 +108,5 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-⭐ From Sinem Alimkilinc
+⭐ From Sinem Yalimkilinc
 
