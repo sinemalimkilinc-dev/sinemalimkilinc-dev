@@ -1,22 +1,16 @@
-\# Hi, I'm Sinem Yalimkilinc! 👋
+\# 👋 Привіт, я Sinem
 
 
 
-\## 👨‍💻 About Me
+\## 🚀 Про мене
 
 
 
-I am a software engineering student interested in web development and GitHub technologies.
+💻 Початківець у веб-розробці  
 
+🌱 Вивчаю GitHub, Jekyll та JavaScript  
 
-
-\- 🌱 Currently learning Git \& GitHub
-
-\- 🚀 Working on HTML and GitHub Pages projects
-
-\- 💻 Interested in software development
-
-\- 📫 GitHub: https://github.com/sinemalimkilinc-dev
+🎯 Цікавлюсь сучасними технологіями
 
 
 
@@ -24,19 +18,7 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-\## 🛠️ Technologies \& Tools
-
-
-
-\### Languages
-
-
-
-!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-
-
-!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+\# 🛠 Технології
 
 
 
@@ -44,19 +26,15 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-\---
+!\[React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 
 
-\## 🔧 Tools
+!\[Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 
 
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-
-
-!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 
 
@@ -64,7 +42,7 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-\## 📊 GitHub Stats
+\# 📊 GitHub статистика
 
 
 
@@ -76,19 +54,7 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-\---
-
-
-
-\## 📌 Projects
-
-
-
-\- 🌐 My Website Project
-
-\- 📘 GitHub Learning Projects
-
-\- 💻 HTML Practice Projects
+!\[GitHub Streak](https://streak-stats.demolab.com/?user=sinemalimkilinc-dev\&theme=radical)
 
 
 
@@ -96,11 +62,11 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-\## 📫 Contact
+\# 🏆 GitHub Trophy
 
 
 
-\- GitHub: https://github.com/sinemalimkilinc-dev
+!\[trophy](https://github-profile-trophy.vercel.app/?username=sinemalimkilinc-dev\&theme=radical\&no-frame=true\&no-bg=true)
 
 
 
@@ -108,5 +74,27 @@ I am a software engineering student interested in web development and GitHub tec
 
 
 
-⭐ From Sinem Yalimkilinc
+\# 📈 Activity Graph
+
+
+
+!\[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinemalimkilinc-dev\&theme=github-compact)
+
+
+
+\---
+
+
+
+\# 🌐 Контакти
+
+
+
+\[!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sinemalimkilinc-dev)
+
+
+
+\[!\[Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sinemalimkilinc-dev.github.io)
+
+
 
